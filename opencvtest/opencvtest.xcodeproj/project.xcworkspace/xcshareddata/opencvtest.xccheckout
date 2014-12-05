@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31F3D850-1EFD-4E40-B3FE-84CF9F4A717E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>opencvtest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEDF8BA1A2F396F715BED33C9B9E71828119B343</key>
+		<string>git.kdan.cc:PDFModules</string>
+		<key>F77858F093381C77B704DE8F46FF9788BF1248D8</key>
+		<string>git.kdan.cc:pocketscanner</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opencvtest/opencvtest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEDF8BA1A2F396F715BED33C9B9E71828119B343</key>
+		<string>../../..</string>
+		<key>F77858F093381C77B704DE8F46FF9788BF1248D8</key>
+		<string>../../../../pocketscanner</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.kdan.cc:PDFModules</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEDF8BA1A2F396F715BED33C9B9E71828119B343</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEDF8BA1A2F396F715BED33C9B9E71828119B343</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PDFModules</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F77858F093381C77B704DE8F46FF9788BF1248D8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pocketscanner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
