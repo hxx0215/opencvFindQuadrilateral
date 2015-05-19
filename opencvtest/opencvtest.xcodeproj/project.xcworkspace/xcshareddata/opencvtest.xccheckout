@@ -10,6 +10,8 @@
 	<string>opencvtest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>C67EDDFA7679B596EAC078656990A9188B0DB51E</key>
+		<string>https://github.com/hxx0215/opencvFindQuadrilateral.git</string>
 		<key>CEDF8BA1A2F396F715BED33C9B9E71828119B343</key>
 		<string>git.kdan.cc:PDFModules</string>
 		<key>F77858F093381C77B704DE8F46FF9788BF1248D8</key>
@@ -19,19 +21,29 @@
 	<string>opencvtest/opencvtest.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>CEDF8BA1A2F396F715BED33C9B9E71828119B343</key>
+		<key>C67EDDFA7679B596EAC078656990A9188B0DB51E</key>
 		<string>../../..</string>
+		<key>CEDF8BA1A2F396F715BED33C9B9E71828119B343</key>
+		<string>../../../../PDFModules</string>
 		<key>F77858F093381C77B704DE8F46FF9788BF1248D8</key>
 		<string>../../../../pocketscanner</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>git.kdan.cc:PDFModules</string>
+	<string>https://github.com/hxx0215/opencvFindQuadrilateral.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CEDF8BA1A2F396F715BED33C9B9E71828119B343</string>
+	<string>C67EDDFA7679B596EAC078656990A9188B0DB51E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C67EDDFA7679B596EAC078656990A9188B0DB51E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opencvFindQuadrilateral</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
